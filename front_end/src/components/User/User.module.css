@@ -1,0 +1,10 @@
+.user {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 20fr 80fr;
+  grid-template-rows: 1fr auto;
+}
+
+.footer {
+  grid-column: span 2;
+}

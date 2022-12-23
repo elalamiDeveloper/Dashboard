@@ -1,0 +1,15 @@
+.primary-button {
+  padding: 1.3rem 3rem;
+  font-size: 1.8rem;
+  border-radius: 0.2rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: #627cf5;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.primary-button:hover {
+  background: #2b447a;
+  transform: scale(1.05);
+}

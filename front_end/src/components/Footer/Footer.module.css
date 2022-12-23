@@ -1,0 +1,12 @@
+.footer {
+  font-size: 1.8rem;
+  padding: 2.4rem;
+  text-align: center;
+  background: hsl(228, 20%, 25%);
+}
+
+.created {
+  color: #627cf5;
+  font-size: 2.4rem;
+  font-weight: 700;
+}
